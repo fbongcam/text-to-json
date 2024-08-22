@@ -1,6 +1,7 @@
 {
   "name": "text-to-json",
   "displayName": "Text to JSON",
+  "publisher": "fbongcam",
   "description": "",
   "version": "0.0.1",
   "engines": {
