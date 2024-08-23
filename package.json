@@ -2,6 +2,9 @@
   "name": "text-to-json",
   "displayName": "Text to JSON",
   "publisher": "fbongcam",
+  "repository": {
+    "url": "https://github.com/fbongcam/text-to-json"
+  },
   "description": "",
   "version": "0.0.1",
   "engines": {
